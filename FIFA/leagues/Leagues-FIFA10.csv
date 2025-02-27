@@ -1,36 +1,3 @@
-Unnamed: 0,Name,Teams,Players,Added,Updated,Removed,Unnamed: 7,href,country
-,Superliga  Denmark,12,292,22,133,73,,https://sofifa.com/league/1,Denmark
-,Pro League  Belgium,16,416,24,224,120,,https://sofifa.com/league/4,Belgium
-,Série A  Brazil,20,589,172,324,211,,https://sofifa.com/league/7,Brazil
-,Eredivisie  Netherlands,18,476,33,403,125,,https://sofifa.com/league/10,Netherlands
-,Premier League  England,20,698,77,467,65,,https://sofifa.com/league/13,England
-,Championship  England,24,685,46,415,98,,https://sofifa.com/league/14,England
-,Ligue 1  France,20,604,48,215,84,,https://sofifa.com/league/16,France
-,Ligue 2  France,20,548,47,276,194,,https://sofifa.com/league/17,France
-,Bundesliga  Germany,18,553,48,335,65,,https://sofifa.com/league/19,Germany
-,2. Bundesliga  Germany,18,503,42,327,148,,https://sofifa.com/league/20,Germany
-,Serie A  Italy,20,604,45,403,93,,https://sofifa.com/league/31,Italy
-,Serie B  Italy,22,586,42,116,188,,https://sofifa.com/league/32,Italy
-,Major League Soccer  United States,15,391,81,273,80,,https://sofifa.com/league/39,United States
-,Eliteserien  Norway,16,418,87,195,101,,https://sofifa.com/league/41,Norway
-,Premiership  Scotland,12,315,18,171,82,,https://sofifa.com/league/50,Scotland
-,La Liga  Spain,20,643,77,383,87,,https://sofifa.com/league/53,Spain
-,La Liga 2  Spain,22,617,61,380,211,,https://sofifa.com/league/54,Spain
-,Allsvenskan  Sweden,16,400,62,174,81,,https://sofifa.com/league/56,Sweden
-,League One  England,24,674,57,466,132,,https://sofifa.com/league/60,England
-,League Two  England,24,623,77,284,200,,https://sofifa.com/league/61,England
-,Super League  Greece,4,109,6,72,26,,https://sofifa.com/league/63,Greece
-,Premier Division  Republic of Ireland,10,232,55,40,106,,https://sofifa.com/league/65,Republic of Ireland
-,Ekstraklasa  Poland,16,399,30,89,147,,https://sofifa.com/league/66,Poland
-,Premier League  Russia,16,451,49,399,147,,https://sofifa.com/league/67,Russia
-,Süper Lig  Türkiye,18,453,41,160,115,,https://sofifa.com/league/68,Türkiye
-,Bundesliga  Austria,10,269,22,153,80,,https://sofifa.com/league/80,Austria
-,K League 1  Korea Republic,15,428,1,19,110,,https://sofifa.com/league/83,Korea Republic
-,Super League  Switzerland,10,263,27,181,83,,https://sofifa.com/league/189,Switzerland
-,Challenge League  Switzerland,2,46,7,12,40,,https://sofifa.com/league/190,Switzerland
-,Primeira Liga  Portugal,16,444,51,328,133,,https://sofifa.com/league/308,Portugal
-,První liga  Czechia,16,421,28,126,136,,https://sofifa.com/league/319,Czechia
-,Liga MX  Mexico,18,543,60,428,140,,https://sofifa.com/league/341,Mexico
-,Premier Soccer League  South Africa,2,68,7,11,21,,https://sofifa.com/league/347,South Africa
-,A-League Men  Australia,10,217,16,94,40,,https://sofifa.com/league/351,Australia
-,Liga Profesional de Fútbol  Argentina,2,60,15,24,23,,https://sofifa.com/league/353,Argentina
+version https://git-lfs.github.com/spec/v1
+oid sha256:b57988db54767b9211671e952a0dc1b74eb2a679fd13648cdee92dc005a8839d
+size 2895
