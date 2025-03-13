@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/C30BNfQ0/Comfy-UI-00231.png" alt="Comfy-UI-00231" border="0">
+
 Проект имеет составную структуру и состоит из нескольких папок и файлов: 
 Папки: `_funcs`, `cache`, `data`, `FIFA`
 Файлы: `data_processing.ipynb`, `project.ipynb`, `requirements.txt`, `Sofifa-parser.py`
