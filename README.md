@@ -8,9 +8,6 @@
 * Файлы: `data_processing.ipynb`, `project.ipynb`, `project-ml.ipynb`, `requirements.txt`, `Sofifa-parser.py`
 
 
-Данные доступны по этой [ссылке](https://drive.google.com/drive/folders/1WM4IMwhoWHOdsHX7I2gORPWO8tnLHofr?usp=sharing)
-
-
 Идейно проект разделен на $4$ части: сбор данных, обработка данных, их анализ и машиное обучение. При этом непосредственно в проекте тоже будут смысловые разделы.
 
 
